@@ -4,10 +4,9 @@ This repository contains the statistical method, that is the spatio-temporal mod
 
 ## Different files
 This repository contains three different R files, which should be applied to the data in the following order:
-\begin{enumerate}
-  \item data_cleaning.Rcode
-  \item data_exploration.Rcode
-  \item single_species_analysis.Rcode
-  \item species_richness_analysis.Rcode
-\end{enumerate}
+1) data_cleaning.R
+2) data_exploration.R
+3) single_species_analysis.R
+4) species_richness_analysis.R
+
 
